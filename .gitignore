@@ -1,0 +1,19 @@
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor temp files
+*.swp
+*~
+.vscode/
+.idea/
+
+# Python (in case you ever put scripts here)
+__pycache__/
+*.pyc
+*.pyo
+
+# Backup files
+*.bak
+*.orig
